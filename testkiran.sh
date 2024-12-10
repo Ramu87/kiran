@@ -9,3 +9,9 @@ a=1+2
 
 #rebase
 b=3+4
+
+#diff
+trail
+
+#picking
+kiran=ramu
